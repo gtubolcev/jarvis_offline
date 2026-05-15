@@ -152,3 +152,4 @@ Abraham Tugalov
 
 [GPL-3.0-only](https://www.gnu.org/licenses/gpl-3.0.html)  
 See `LICENSE.txt` for details.
+# trigger
