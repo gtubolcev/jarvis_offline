@@ -28,7 +28,7 @@ jobs:
             "cmake;3.22.1" \
             "ndk;26.1.10909125"
 
-      - run: chmod +x gradlew
+      - run: chmod +x gradlew || true
 
       - run: ./gradlew assembleDebug
 
